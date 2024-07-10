@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Fake News Detection System
-
-@author: Gokul Bhavesh Joshi
-"""
 
 
 # Import libraries
